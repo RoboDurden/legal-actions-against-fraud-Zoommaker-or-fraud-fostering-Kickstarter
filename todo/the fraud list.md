@@ -23,4 +23,4 @@
 
 * Phree - 5.072 backers - 1.065.761 $ - should deliver: Apr 2016
 
-Total money wasted: 14.191.912 $ - Kickstarters 5% commision: 709.596 $ - Number backers: 145.258 
+# Total money wasted: 14.191.912 $ - Kickstarters 5% commision: 709.596 $ - Number backers: 145.258 
