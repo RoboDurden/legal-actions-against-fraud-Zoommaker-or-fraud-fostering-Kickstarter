@@ -3,7 +3,9 @@ We fight for better crowdfunding and sincerly wish that Kickstarer joins.
 
 # @all, spread the word to ensure a good starting momentum for the upcoming $2500 campaign.
 
-**We** are fully transparent !
+We have chosen Github to honor the global open source community - and we see Crowdfunding as a likewise essential part of new born Information Society !
+
+#  We(!) are fully transparent !
 
 Strategy will be that when we finally enter court, we have already won because Kickstarter by then has fully proven their ignorant behavior that is fostering fraud:
 
@@ -31,3 +33,5 @@ We all want crazy campaigns and Kickstarter wants to be "The Wild West Of Crowdf
 But fostering fraud is in itself fraud.
 
 # @all, spread the word to ensure a good starting momentum for the upcoming $2500 campaign.
+
+*"We"*, the founders: Robo Durden + Beverley Hollis + Shreyas + Kevin Eales + Steven Godwin + Will Lenzen Jr + Zander Shaggy Verhoeven + Thomas Vanderbilt + Zack + Carrie Harlan + Victor Adrian M. Gonzales + Alvin + Riccardo stanchi 
