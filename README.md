@@ -14,7 +14,7 @@ Strategy will be that when we finally enter court, we have already won because K
 2. **done** - $250 funding from 11 Zoomaker backers.
 3. todo - $2.500 campaign on Kickstarter and on a competing crowdfunding platform.
 4. todo - ask 4 successful (2+ campaigns) and trusted Chinese creators to ask their 12.322 backers for support.
-5. todo - file criminal complaints to make a prosecutor claim Zoomakers contact details from Kickstarter.
+5. todo - file criminal complaints **in three countries** to make prosecutors claim Zoomakers contact details from Kickstarter.
 6. todo - Verify these contact details in Hongkong to file a criminal complaint there. (only from now on at least several $100 are needed)
 7. todo - if contact details are invalid, file a civil action against Kickstarter: compensation for damages / loss suffered.
 9. todo - If Kickstarter denies, file a criminal complaint against Kickstarter for partner in crime.
