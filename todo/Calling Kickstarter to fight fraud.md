@@ -10,3 +10,6 @@ Then with the 747% Zoommaker campaign Kickstarter would have been able to issue 
 
 * **backers can add $5 to their pledge and when a seperate $1.000 goal is reached, Kickstarter will order an independent certificate of the creators credibility and capability**
 Zoommaker refused to tell his identity. An independent consultant could have checked him and still prevent the reputed "malicious targeting by their competitors."
+
+* **when 48 hours before a campaigns end an unusual lot of backers have canceled their pledge, Kickstarter will send an update to all backers with the comments of these backers.** 
+This will foster the needed opposition of experienced backers and help the majority of naive backers who do not follow the comment section.
